@@ -23,9 +23,9 @@ This project is a personal finance tool that offers a suite of calculators and t
 To use the Wealth Calculator, follow these steps:
 
 1. **Download and install .NET Framework** on your machine if you haven't already.
-2. **Download the Wealth Calculator zip folder.**
-3. **Unzip the folder** to a location on your machine.
-4. **Open the unzipped folder with Visual Studio.**
+2. **Open Visual Studio > Click on Clone a Repository**
+3. **Copy and Paste the clone url link <https://github.com/shivam8103/WealthCalculator.git>**.
+4. **Set the path than click clone**
 5. **Run the application** to start using the Wealth Calculator.
    
 Note: Make sure you have Visual Studio installed on your machine to run the application.
